@@ -1,0 +1,25 @@
+.title {
+  color: #232323;
+  font-size: .48rem;
+  font-weight: 300;
+  text-align: center;
+  margin-top: .8rem;
+}
+
+.logo {
+  width: 2rem;
+  display: block;
+  margin: .8rem auto;
+}
+
+.text {
+  color: #232323;
+  font-size: .28rem;
+  text-align: center;
+}
+
+.link {
+  color: #0084ff;
+  font-size: .28rem;
+  font-weight: bold;
+}
