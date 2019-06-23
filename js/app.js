@@ -29,4 +29,5 @@ window.addEventListener('resize', ()=>{
 document.addEventListener('DOMContentLoaded', ()=>{
   initPixelRatio();
   updateWinFontSize();
+  document.body.style.display = 'block';
 });
